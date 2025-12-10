@@ -39,21 +39,3 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p>
-  <img 
-    align="left" 
-    height="165" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anjulrathor&layout=compact" 
-  />
-</p>
-
-<p>
-  <img 
-    align="center" 
-    height="165" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anjulrathor&show_icons=true" 
-  />
-</p>
-
----
