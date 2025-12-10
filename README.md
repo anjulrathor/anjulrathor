@@ -9,12 +9,12 @@
 
 ## 🚀 About Me  
 - 🔭 Currently building: **[Apthire](https://apthire.vercel.app/)**  
-- 🌱 Learning: **Backend architecture, authentication & system design basics**  
-- 👯 Open to collaborate: **MERN stack projects**  
-- 🤝 Need help with: **Apthire performance & UI/UX**  
-- 💬 Ask me about: **React, Next.js, GSAP**  
+- 🌱 Learning: **Backend architecture, authentication, system design basics**  
+- 👯 Open to collaborate on: **MERN stack projects**  
+- 🤝 Need help improving: **Apthire performance, backend & UI/UX**  
+- 💬 Ask me about: **React, Next.js, GSAP, frontend animations**  
 - 👨‍💻 Portfolio: **https://www.anjulrathor.com**  
-- 📫 Contact: **anjulrathor.dev@gmail.com**  
+- 📫 Contact me at: **anjulrathor.dev@gmail.com**  
 - 📄 Resume: **https://www.anjulrathor.com**  
 - ⚡ Fun fact: *My code works on the first try… in my dreams 😄*
 
@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://www.anjulrathor.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+    <img src="https://skillicons.dev/icons?i=web" height="40"/>
   </a>
 </p>
 
@@ -39,13 +39,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 <p>
-  <img align="left" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjulrathor&layout=compact&theme=default" />
+  <img 
+    align="left" 
+    height="165" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anjulrathor&layout=compact" 
+  />
 </p>
 
 <p>
-  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=anjulrathor&show_icons=true&theme=default" />
+  <img 
+    align="center" 
+    height="165" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anjulrathor&show_icons=true" 
+  />
 </p>
 
 ---
