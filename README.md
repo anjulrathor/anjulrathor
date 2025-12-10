@@ -8,13 +8,13 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently building: **[Apthire](https://apthire.vercel.app/)** — a skill-based job preparation platform  
-- 🌱 Learning: **Backend architecture, authentication, system design basics & frameworks that make my life easier**  
+- 🔭 Currently building: **[Apthire](https://apthire.vercel.app/)**  
+- 🌱 Learning: **Backend architecture, authentication & system design basics**  
 - 👯 Open to collaborate: **MERN stack projects**  
-- 🤝 Need help: Improving Apthire's **performance, backend & UI/UX**  
-- 💬 Ask me about: **React, Next.js, GSAP, frontend wizardry**  
+- 🤝 Need help with: **Apthire performance & UI/UX**  
+- 💬 Ask me about: **React, Next.js, GSAP**  
 - 👨‍💻 Portfolio: **https://www.anjulrathor.com**  
-- 📫 Reach me at: **anjulrathor.dev@gmail.com**  
+- 📫 Contact: **anjulrathor.dev@gmail.com**  
 - 📄 Resume: **https://www.anjulrathor.com**  
 - ⚡ Fun fact: *My code works on the first try… in my dreams 😄*
 
@@ -25,24 +25,27 @@
   <a href="https://linkedin.com/in/anjulrathor" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
+  <a href="https://www.anjulrathor.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools I Work With  
-<p align="left">
+## 🛠️ Languages & Tools  
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,figma,webpack,docker,firebase" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjulrathor&layout=compact" height="165" />
+  <img align="left" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjulrathor&layout=compact&theme=default" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjulrathor&show_icons=true" height="165" />
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=anjulrathor&show_icons=true&theme=default" />
 </p>
 
 ---
